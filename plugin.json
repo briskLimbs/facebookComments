@@ -1,0 +1,11 @@
+{
+  "name" : "facebook_comments",
+  "display_name": "Facebook Comments",
+  "file": "facebookComments.php",
+  "author": "Saqib Razzaq",
+  "autor_website": "https://github.com/saqirzzq",
+  "date": "2019, 03, 21",
+  "description": "Add Facebook comments on video watch page",
+  "version": "0.1",
+  "state": "Beta"
+}
